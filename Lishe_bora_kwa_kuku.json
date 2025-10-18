@@ -1,0 +1,40 @@
+{
+"Lishe bora kwa kuku": {
+        "Utangulizi": {
+          "chapter_title": "Utangulizi",
+          "content": "Lishe bora ni msingi wa afya, ukuaji, na uzalishaji wa kuku. Kuku anayepata chakula sahihi hukua haraka, ana kinga imara, na anatoa mayai au nyama yenye ubora. Sura hii itakusaidia kuelewa makundi ya chakula, mchanganyiko, maji, virutubisho, na mbinu za kuhakikisha lishe ni bora kila wakati."
+        },
+        "Aina za chakula kwa kuku": {
+          "chapter_title": "Aina za Chakula kwa Kuku",
+          "content": "Kuna aina kuu tano za chakula zinazohitajika na kuku:\n1. **Wanga (Carbohydrates):** Mahindi, mtama, shayiri, na wali. Hutoa nishati ya kukua na kutembeza mwili.\n2. **Protini:** Dagaa, soya, kunde, na karanga. Protini husaidia ukuaji wa misuli na ngozi.\n3. **Madini:** Chokaa, unga wa mifupa, na chumvi. Husaidia mifupa imara, mayai yenye nguvu, na kazi za ndani za mwili.\n4. **Vitamini:** Majani, mboga za majani, na matunda. Zinahakikisha ukuaji wa afya na kinga imara.\n5. **Maji safi:** Ni muhimu kwa maisha, digestion, na kuweka afya njema."
+        },
+        "Mchanganyiko wa chakula cha kuku": {
+          "chapter_title": "Mchanganyiko wa Chakula cha Kuku",
+          "content": "Lishe lazima iendane na umri wa kuku:\n- **Vifaranga (0–8 wiki):** Starter feed yenye protini 18–20%.\n- **Kuku wanaokua (9–18 wiki):** Grower feed yenye protini 15–17%.\n- **Kuku wanaotaga (19+ wiki):** Layer feed yenye madini mengi hasa kalsiamu.\n\n**Mfano wa chakula cha kienyeji:**\n- Vifaranga: mahindi 40 kg, dagaa 10 kg, soya 10 kg, unga wa mifupa 2 kg, chokaa 2 kg, premix 200 g.\n- Kuku wanaokua: mahindi 50 kg, dagaa 7 kg, soya 8 kg, unga wa mifupa 2 kg, chokaa 3 kg, premix 200 g."
+        },
+        "Chakula cha asili na chakula cha biashara": {
+          "chapter_title": "Chakula cha Asili na Chakula cha Biashara",
+          "content": "Kuku wanaweza kula chakula cha asili kama majani, mizizi, na wadudu wadogo, lakini kwa uzalishaji wa biashara chakula kilichopangwa (commercial feed) kinahakikisha ukuaji haraka na mayai ya ubora. Mbinu bora ni **mchanganyiko wa vyote viwili**, kwa kutumia chakula cha asili kupunguza gharama na chakula cha biashara kuongeza ubora."
+        },
+        "Maji kwa kuku": {
+          "chapter_title": "Maji kwa Kuku",
+          "content": "Maji ni muhimu sana. Kila kuku anahitaji angalau **200–300 ml ya maji kila siku**. Hakikisha maji ni safi, yasiyo na vumbi au uchafu, na yanabadilishwa kila siku. Maji husaidia digestion, hutoa virutubisho kwenye chakula, na hufanya kuku kuwa na afya njema."
+        },
+        "Virutubisho vya ziada": {
+          "chapter_title": "Virutubisho vya Ziada",
+          "content": "Virutubisho vya ziada kama premix, probiotics, na multivitamins husaidia kuku kukua haraka, kuboresha kinga ya mwili, na kuongeza uzalishaji wa mayai. Tumia kwa kiasi sahihi kulingana na maelekezo ili kuepuka overdosage."
+        },
+        "Madhara ya lishe duni": {
+          "chapter_title": "Madhara ya Lishe Duni",
+          "content": "Lishe duni husababisha:\n- Ukuaji dhaifu na mayai machache.\n- Ugonjwa wa mara kwa mara na vifo vya mapema.\n- Mayai yenye maganda dhaifu na nyama yenye ladha duni.\n- Udhaifu wa kinga na matatizo ya mifupa."
+        },
+        "Ufuatiliaji wa lishe": {
+          "chapter_title": "Ufuatiliaji wa Lishe",
+          "content": "Kumbuka kuangalia kila siku: chakula kilichobaki, hali ya wingi wa chakula, na tabia za kuku. Rekodi kiasi kilichotumika na ukuaji wa kila kundi ili kuboresha lishe. Badilisha mchanganyiko kulingana na umri na lengo la uzalishaji."
+        },
+        "Hitimisho": {
+          "chapter_title": "Hitimisho",
+          "content": "Lishe bora ni msingi wa mafanikio katika ufugaji wa kuku. Kila kipengele—chakula, maji, virutubisho, ufuatiliaji—kinachangia ukuaji, afya, na uzalishaji wa mayai au nyama. **Kuku aliye na lishe bora ni uwekezaji unaolipa.**"
+        }
+      }
+}
