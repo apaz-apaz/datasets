@@ -5,7 +5,7 @@
       {
         "title": "Ufugaji wa kuku kwa wanao anza",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_kwa_wanao_anza.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_kwa_wanao_anza.jpeg",
         "rating": 4.5,
         "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
       },
@@ -648,3 +648,4 @@
     ]
   }
 }
+
