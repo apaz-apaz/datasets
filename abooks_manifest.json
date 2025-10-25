@@ -5,49 +5,49 @@
       {
         "title": "Ufugaji wa kuku kwa wanao anza",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_kwa_wanao_anza.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_kwa_wanaoanza.jpg",
         "rating": 4.5,
         "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
       },
       {
         "title": "Magonjwa ya kuku na tiba zake",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/magonjwa_ya_kuku_na_tiba_zake.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Magonjwa_ya_kuku_na_tiba_zake.jpg",
         "rating": 4.2,
         "description": "Vidokezo kuhusu magonjwa ya kuku na matibabu."
       },
       {
         "title": "uzalishaji wa vifaranga",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uzalishaji_wa_vifaranga.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Mbinu_bora_za_uzalishaji_wa_vifaranga.jpg",
         "rating": 4.3,
         "description": "Mbinu bora za uzalishaji wa vifaranga."
       },
       {
         "title": "Muundo wa mabanda ya kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/muundo_wa_mabanda_ya_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Muundo_wa_mabanda_bora_ya_ya_kuku.jpg",
         "rating": 4.0,
         "description": "Muundo wa mabanda bora ya kuku."
       },
       {
-        "title": "ufugaji wa kuku wa mayai",
+        "title": "Ufugaji wa kuku wa mayai",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_wa_mayai.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_wa_mayai.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_wa_mayai.jpg",
         "rating": 4.4,
         "description": "Ufugaji wa kuku wa mayai."
       },
       {
         "title": "Usimamizi wa kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_kuku_kwa_ufanisi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/usimamizi_wa_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Usimamizi_wa_kuku_kwa_ufanisi.jpg",
         "rating": 4.1,
         "description": "Usimamizi wa kuku kwa ufanisi."
       },
       {
         "title": "Lishe bora kwa kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Lishe_bora_kwa_kuku.jpg",
         "rating": 4.6,
         "description": "Lishe bora kwa kuku."
       }
@@ -648,4 +648,5 @@
     ]
   }
 }
+
 
