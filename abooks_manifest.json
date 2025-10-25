@@ -5,49 +5,49 @@
       {
         "title": "Ufugaji wa kuku kwa wanao anza",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ufugaji_wa_kuku_kwa_wanao_anza.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_kwa_wanao_anza.jpg",
         "rating": 4.5,
         "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
       },
       {
         "title": "Magonjwa ya kuku na tiba zake",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/magonjwa_ya_kuku_na_tiba_zake.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/magonjwa_ya_kuku_na_tiba_zake.jpg",
         "rating": 4.2,
         "description": "Vidokezo kuhusu magonjwa ya kuku na matibabu."
       },
       {
         "title": "uzalishaji wa vifaranga",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uzalishaji_wa_vifaranga.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uzalishaji_wa_vifaranga.jpg",
         "rating": 4.3,
         "description": "Mbinu bora za uzalishaji wa vifaranga."
       },
       {
         "title": "Muundo wa mabanda ya kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_kuku.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/muundo_wa_mabanda_ya_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/muundo_wa_mabanda_ya_kuku.jpg",
         "rating": 4.0,
         "description": "Muundo wa mabanda bora ya kuku."
       },
       {
         "title": "ufugaji wa kuku wa mayai",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_wa_mayai.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ufugaji_wa_kuku_wa_mayai.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_kuku_wa_mayai.jpg",
         "rating": 4.4,
         "description": "Ufugaji wa kuku wa mayai."
       },
       {
         "title": "Usimamizi wa kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_kuku_kwa_ufanisi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/usimamizi_wa_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/usimamizi_wa_kuku.jpg",
         "rating": 4.1,
         "description": "Usimamizi wa kuku kwa ufanisi."
       },
       {
         "title": "Lishe bora kwa kuku",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_kuku.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_bora_kwa_kuku.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_kuku.jpg",
         "rating": 4.6,
         "description": "Lishe bora kwa kuku."
       }
@@ -56,42 +56,42 @@
       {
         "title": "Ufugaji wa bata kwa wanao anza",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_bata_kwa_wanaoanza.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ufugaji_wa_bata_kwa_wanao_anza.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_bata_kwa_wanao_anza.jpg",
         "rating": 4.3,
         "description": "Mwongozo wa ufugaji wa bata kwa wanaoanza."
       },
       {
         "title": "Magonjwa ya bata na tiba zake",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_bata_na_tiba_zake.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/magonjwa_ya_bata_na_tiba_zake.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/magonjwa_ya_bata_na_tiba_zake.jpg",
         "rating": 4.0,
         "description": "Vidokezo kuhusu magonjwa ya bata na matibabu."
       },
       {
         "title": "uzalishaji wa vifaranga",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uzalishaji_wa_vifaranga.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uzalishaji_wa_vifaranga.jpg",
         "rating": 4.3,
         "description": "Mbinu bora za uzalishaji wa vifaranga."
       },
       {
         "title": "Muundo wa mabanda ya bata",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_bata.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/muundo_wa_mabanda_ya_bata.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/muundo_wa_mabanda_ya_bata.jpg",
         "rating": 4.1,
         "description": "Muundo wa mabanda bora ya bata."
       },
       {
         "title": "Usimamizi wa bata",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_bata_kwa_ufanisi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/usimamizi_wa_bata.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/usimamizi_wa_bata.jpg",
         "rating": 4.2,
         "description": "Usimamizi wa bata kwa ufanisi."
       },
       {
         "title": "Lishe bora kwa bata",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_bata.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_bora_kwa_bata.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_bata.jpg",
         "rating": 4.4,
         "description": "Lishe bora kwa bata."
       }
@@ -100,140 +100,140 @@
       {
         "title": "PHYSICS-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/physics-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.jpg",
         "rating": 4.7,
         "description": "Physics Form 1 notes."
       },
       {
         "title": "PHYSICS-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/physics-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.jpg",
         "rating": 4.6,
         "description": "Physics Form 2 notes."
       },
       {
         "title": "PHYSICS-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/physics-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.jpg",
         "rating": 4.5,
         "description": "Physics Form 3 notes."
       },
       {
         "title": "PHYSICS-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/physics-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.jpg",
         "rating": 4.8,
         "description": "Physics Form 4 notes."
       },
       {
         "title": "CHEMISTRY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chemistry-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.jpg",
         "rating": 4.4,
         "description": "Chemistry Form 1 notes."
       },
       {
         "title": "CHEMISTRY-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chemistry-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.jpg",
         "rating": 4.5,
         "description": "Chemistry Form 2 notes."
       },
       {
         "title": "CHEMISTRY-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chemistry-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.jpg",
         "rating": 4.6,
         "description": "Chemistry Form 3 notes."
       },
       {
         "title": "CHEMISTRY-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chemistry-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.jpg",
         "rating": 4.7,
         "description": "Chemistry Form 4 notes."
       },
       {
         "title": "BIOLOGY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/biology-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpg",
         "rating": 4.5,
         "description": "Biology Form 1 notes."
       },
       {
         "title": "BIOLOGY-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/biology-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpg",
         "rating": 4.6,
         "description": "Biology Form 2 notes."
       },
       {
         "title": "BIOLOGY-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/biology-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpg",
         "rating": 4.7,
         "description": "Biology Form 3 notes."
       },
       {
         "title": "BIOLOGY-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/biology-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpg",
         "rating": 4.8,
         "description": "Biology Form 4 notes."
       },
       {
         "title": "MATHEMATICS-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mathematics-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form1.jpg",
         "rating": 4.4,
         "description": "Mathematics Form 1 notes."
       },
       {
         "title": "MATHEMATICS-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mathematics-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form2.jpg",
         "rating": 4.5,
         "description": "Mathematics Form 2 notes."
       },
       {
         "title": "MATHEMATICS-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form3.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mathematics-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form3.jpg",
         "rating": 4.6,
         "description": "Mathematics Form 3 notes."
       },
       {
         "title": "MATHEMATICS-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form4.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mathematics-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form4.jpg",
         "rating": 4.7,
         "description": "Mathematics Form 4 notes."
       },
       {
         "title": "GEOGRAPHY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/geography-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
         "rating": 4.3,
         "description": "Geography Form 1 notes."
       },
       {
         "title": "GEOGRAPHY-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/geography-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
         "rating": 4.4,
         "description": "Geography Form 2 notes."
       },
       {
         "title": "GEOGRAPHY-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form3.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/geography-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
         "rating": 4.5,
         "description": "Geography Form 3 notes."
       },
       {
         "title": "GEOGRAPHY-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form4.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/geography-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form4.jpg",
         "rating": 4.6,
         "description": "Geography Form 4 notes."
       }
@@ -242,35 +242,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Mwongozo wa kuanzisha na kudhibiti biashara ndogo."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Uwekezaji na fedha binafsi."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Mikakati ya mafanikio ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Masoko ya kidijitali kwa biashara ndogo."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Ujasiriamali wa kisasa."
       }
@@ -279,49 +279,49 @@
       {
         "title": "Lishe kwa mama mjamzito",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mama_mjamzito.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mama_mjamzito.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mama_mjamzito.jpg",
         "rating": 4.5,
         "description": "Lishe kwa mama mjamzito."
       },
       {
         "title": "Lishe kwa mtoto wa mwaka 0-1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_0-1.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mtoto_wa_mwaka_0-1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_0-1.jpg",
         "rating": 4.4,
         "description": "Lishe kwa mtoto wa mwaka 0-1."
       },
       {
         "title": "Lishe kwa mtoto wa mwaka 1-2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_1-2.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mtoto_wa_mwaka_1-2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_1-2.jpg",
         "rating": 4.3,
         "description": "Lishe kwa mtoto wa mwaka 1-2."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 2-5",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_2-5.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mtoto_wa_miaka_2-5.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_2-5.jpg",
         "rating": 4.6,
         "description": "Lishe kwa mtoto wa miaka 2-5."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 5-7",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_miaka_5-7.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mtoto_wa_miaka_5-7.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_miaka_5-7.jpg",
         "rating": 4.2,
         "description": "Lishe kwa mtoto wa miaka 5-7."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 7-10",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_miaka_7-10.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_mtoto_wa_miaka_7-10.jpg",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_7-10.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_7-10.jpg",
         "rating": 4.5,
         "description": "Lishe kwa mtoto wa miaka 7-10."
       },
       {
         "title": "Lishe kwa watu wazima",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_watu_wazima.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/lishe_kwa_watu_wazima.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_watu_wazima.jpg",
         "rating": 4.7,
         "description": "Lishe kwa watu wazima."
       }
@@ -330,133 +330,133 @@
       {
         "title": "Sambusa za viazi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/sambusa_za_viazi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/sambusa_za_viazi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/sambusa_za_viazi.jpg",
         "rating": 4.5,
         "description": "Mapishi ya sambusa za viazi."
       },
       {
         "title": "Sambusa za nyama",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/sambusa_za_nyama.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/sambusa_za_nyama.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/sambusa_za_nyama.jpg",
         "rating": 4.6,
         "description": "Mapishi ya sambusa za nyama."
       },
       {
         "title": "Vitumbua",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/vitumbua.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/vitumbua.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/vitumbua.jpg",
         "rating": 4.4,
         "description": "Mapishi ya vitumbua."
       },
       {
         "title": "Kachori",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/kachori.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/kachori.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/kachori.jpg",
         "rating": 4.3,
         "description": "Mapishi ya kachori."
       },
       {
         "title": "Chapati za maji",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/chapati.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chapati_za_maji.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chapati_za_maji.jpg",
         "rating": 4.7,
         "description": "Mapishi ya chapati za maji."
       },
       {
         "title": "Chapati za kusukuma",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/chapati_za_kusukuma.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/chapati_za_kusukuma.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chapati_za_kusukuma.jpg",
         "rating": 4.5,
         "description": "Mapishi ya chapati za kusukuma."
       },
       {
         "title": "Maandazi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/maandazi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/maandazi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/maandazi.jpg",
         "rating": 4.6,
         "description": "Mapishi ya maandazi."
       },
       {
         "title": "Bagia za dengu",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/bagia_za_dengu.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/bagia_za_dengu.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/bagia_za_dengu.jpg",
         "rating": 4.2,
         "description": "Mapishi ya bagia za dengu."
       },
       {
         "title": "Bagia za kunde",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/bagia_za_kunde.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/bagia_za_kunde.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/bagia_za_kunde.jpg",
         "rating": 4.3,
         "description": "Mapishi ya bagia za kunde."
       },
       {
         "title": "Visheti",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/visheti.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/visheti.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/visheti.jpg",
         "rating": 4.4,
         "description": "Mapishi ya visheti."
       },
       {
         "title": "Kababu",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/kababu.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/kababu.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/kababu.jpg",
         "rating": 4.5,
         "description": "Mapishi ya kababu."
       },
       {
         "title": "Vileja",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/vileja.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/vileja.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/vileja.jpg",
         "rating": 4.1,
         "description": "Mapishi ya vileja."
       },
       {
         "title": "Kashata za karanga",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/kashata_za_karanga.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/kashata_za_karanga.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/kashata_za_karanga.jpg",
         "rating": 4.6,
         "description": "Mapishi ya kashata za karanga."
       },
       {
         "title": "Kashata za nazi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/kashata_za_nazi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/kashata_za_nazi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/kashata_za_nazi.jpg",
         "rating": 4.4,
         "description": "Mapishi ya kashata za nazi."
       },
       {
         "title": "Kashata za ufuta",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/kashata_za_ufuta.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/kashata_za_ufuta.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/kashata_za_ufuta.jpg",
         "rating": 4.3,
         "description": "Mapishi ya kashata za ufuta."
       },
       {
         "title": "Tambi za dengu",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/tambi_za_dengu.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/tambi_za_dengu.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/tambi_za_dengu.jpg",
         "rating": 4.2,
         "description": "Mapishi ya tambi za dengu."
       },
       {
         "title": "Karanga za mayai",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/karanga_za_mayai.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/karanga_za_mayai.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/karanga_za_mayai.jpg",
         "rating": 4.5,
         "description": "Mapishi ya karanga za mayai."
       },
       {
         "title": "Mkate wa mayai",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/mkate_wa_mayai.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mkate_wa_mayai.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mkate_wa_mayai.jpg",
         "rating": 4.4,
         "description": "Mapishi ya mkate wa mayai."
       },
       {
         "title": "Mkate wa mchele",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/mkate_wa_mchele.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mkate_wa_mchele.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mkate_wa_mchele.jpg",
         "rating": 4.3,
         "description": "Mapishi ya mkate wa mchele."
       }
@@ -465,35 +465,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Riwaya kuhusu kuanzisha biashara."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Riwaya kuhusu uwekezaji."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Riwaya kuhusu mikakati ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Riwaya kuhusu masoko ya kidijitali."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Riwaya kuhusu ujasiriamali."
       }
@@ -502,35 +502,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Tamthilia kuhusu kuanzisha biashara."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Tamthilia kuhusu uwekezaji."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Tamthilia kuhusu mikakati ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Tamthilia kuhusu masoko ya kidijitali."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Tamthilia kuhusu ujasiriamali."
       }
@@ -539,35 +539,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Hadithi kuhusu kuanzisha biashara."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Hadithi kuhusu uwekezaji."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Hadithi kuhusu mikakati ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Hadithi kuhusu masoko ya kidijitali."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Hadithi kuhusu ujasiriamali."
       }
@@ -576,35 +576,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Mashairi kuhusu kuanzisha biashara."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Mashairi kuhusu uwekezaji."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Mashairi kuhusu mikakati ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Mashairi kuhusu masoko ya kidijitali."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Mashairi kuhusu ujasiriamali."
       }
@@ -613,35 +613,35 @@
       {
         "title": "Namna ya Kuanzisha biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Vichekesho kuhusu kuanzisha biashara."
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/uwekezaji_na_fedha_binafsi.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
         "description": "Vichekesho kuhusu uwekezaji."
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
         "rating": 4.6,
         "description": "Vichekesho kuhusu mikakati ya biashara."
       },
       {
         "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
         "rating": 4.4,
         "description": "Vichekesho kuhusu masoko ya kidijitali."
       },
       {
         "title": "Ujasiriamali wa Kisasa",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "coverUrl": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/covers/ujasiriamali_wa_kisasa.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
         "rating": 4.7,
         "description": "Vichekesho kuhusu ujasiriamali."
       }
