@@ -100,84 +100,84 @@
       {
         "title": "PHYSICS-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.png",
         "rating": 4.7,
         "description": "Physics Form 1 notes."
       },
       {
         "title": "PHYSICS-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.png",
         "rating": 4.6,
         "description": "Physics Form 2 notes."
       },
       {
         "title": "PHYSICS-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.png",
         "rating": 4.5,
         "description": "Physics Form 3 notes."
       },
       {
         "title": "PHYSICS-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.png",
         "rating": 4.8,
         "description": "Physics Form 4 notes."
       },
       {
         "title": "CHEMISTRY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
         "rating": 4.4,
         "description": "Chemistry Form 1 notes."
       },
       {
         "title": "CHEMISTRY-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.png",
         "rating": 4.5,
         "description": "Chemistry Form 2 notes."
       },
       {
         "title": "CHEMISTRY-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.png",
         "rating": 4.6,
         "description": "Chemistry Form 3 notes."
       },
       {
         "title": "CHEMISTRY-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.png",
         "rating": 4.7,
         "description": "Chemistry Form 4 notes."
       },
       {
         "title": "BIOLOGY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
         "rating": 4.5,
         "description": "Biology Form 1 notes."
       },
       {
         "title": "BIOLOGY-Form2",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpeg",
         "rating": 4.6,
         "description": "Biology Form 2 notes."
       },
       {
         "title": "BIOLOGY-Form3",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpeg",
         "rating": 4.7,
         "description": "Biology Form 3 notes."
       },
       {
         "title": "BIOLOGY-Form4",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpeg",
         "rating": 4.8,
         "description": "Biology Form 4 notes."
       },
@@ -648,5 +648,6 @@
     ]
   }
 }
+
 
 
