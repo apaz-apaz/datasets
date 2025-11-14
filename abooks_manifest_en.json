@@ -1,6 +1,43 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": {
+    "BUSINESS AND ENTREPRENEURSHIP": [
+      {
+        "title": "Modern Entrepreneurship",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Modern_Entrepreneurship.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Modern_Entrepreneurship.jpg",
+        "rating": 4.5,
+        "description": "Mwongozo wa kuanzisha na kudhibiti biashara ndogo."
+      },
+      {
+        "title": "Strategies for Business Success",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Strategies_for_Business_Success.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Strategies_for_Business_Success.jpg",
+        "rating": 4.3,
+        "description": "Uwekezaji na fedha binafsi."
+      },
+      {
+        "title": "Starting and Managing a Small Business",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Starting_and_Managing_a_Small_Business.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Starting_and_Managing_a_Small_Business.jpg",
+        "rating": 4.6,
+        "description": "Mikakati ya mafanikio ya biashara."
+      },
+      {
+        "title": "Personal Finance and Investment",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Personal_Finance_and_Investment.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Personal_Finance_and_Investment.jpg",
+        "rating": 4.4,
+        "description": "Masoko ya kidijitali kwa biashara ndogo."
+      },
+      {
+        "title": "Digital Marketing for Small Businesses",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Digital_Marketing_for_Small_Businesses.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Digital_Marketing_for_Small_Businesses.jpg",
+        "rating": 4.7,
+        "description": "Ujasiriamali wa kisasa."
+      }
+    ],
     "EDUCATION": [
       {
         "title": "PHYSICS-Form1",
@@ -143,53 +180,60 @@
         "description": "Geography Form 4 notes."
       }
     ],
-    "UFUGAJI WA KUKU": [
+    "CHICKEN FARMING": [
       {
-        "title": "Ufugaji wa kuku kwa wanao anza",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_kwa_wanaoanza.jpg",
+        "title": "Chicken Farming for Beginners",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Chicken_Farming_for_Beginners.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Chicken_Farming_for_Beginners.jpg",
         "rating": 4.5,
         "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
       },
       {
-        "title": "Magonjwa ya kuku na tiba zake",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Magonjwa_ya_kuku_na_tiba_zake.jpg",
+        "title": "Chicken Diseases and Their Treatments",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Chicken_Diseases_and_Their_Treatments.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Chicken_Diseases_and_Their_Treatments.jpg",
         "rating": 4.2,
         "description": "Vidokezo kuhusu magonjwa ya kuku na matibabu."
       },
       {
-        "title": "uzalishaji wa vifaranga",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Mbinu_bora_za_uzalishaji_wa_vifaranga.jpg",
+        "title": "Best Practices for Chick Production",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Best_Practices_for_Chick_Production.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Best_Practices_for_Chick_Production.jpg",
         "rating": 4.3,
         "description": "Mbinu bora za uzalishaji wa vifaranga."
       },
       {
-        "title": "Muundo wa mabanda ya kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Muundo_wa_mabanda_bora_ya_ya_kuku.jpg",
+        "title": "Optimal Nutrition for Chickens",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Optimal_Nutrition_for_Chickens.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Optimal_Nutrition_for_Chickens.jpg",
         "rating": 4.0,
         "description": "Muundo wa mabanda bora ya kuku."
       },
       {
-        "title": "Ufugaji wa kuku wa mayai",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_wa_mayai.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_wa_mayai.jpg",
+        "title": "Effective Chicken Management",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Effective_Chicken_Management.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Effective_Chicken_Management.jpg",
         "rating": 4.4,
         "description": "Ufugaji wa kuku wa mayai."
       },
       {
-        "title": "Usimamizi wa kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_kuku_kwa_ufanisi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Usimamizi_wa_kuku_kwa_ufanisi.jpg",
+        "title": "Egg-Laying Chicken Farming",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Egg-Laying_Chicken_Farming.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Egg-Laying_Chicken_Farming.jpg",
         "rating": 4.1,
         "description": "Usimamizi wa kuku kwa ufanisi."
       },
       {
-        "title": "Lishe bora kwa kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Lishe_bora_kwa_kuku.jpg",
+        "title": "Optimal Chicken House Design",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Optimal_Chicken_House_Design.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Optimal_Chicken_House_Design.jpg",
+        "rating": 4.6,
+        "description": "Lishe bora kwa kuku."
+      },
+      {
+        "title": "Best Practices for Indigenous Chicken Farming",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Best_Practices_for_Indigenous_Chicken_Farming.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Best_Practices_for_Indigenous_Chicken_Farming.jpg",
         "rating": 4.6,
         "description": "Lishe bora kwa kuku."
       }
@@ -236,43 +280,6 @@
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_bata.jpg",
         "rating": 4.4,
         "description": "Lishe bora kwa bata."
-      }
-    ],
-    "UJASIRIAMALI NA BIASHARA": [
-      {
-        "title": "Namna ya Kuanzisha biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
-        "rating": 4.5,
-        "description": "Mwongozo wa kuanzisha na kudhibiti biashara ndogo."
-      },
-      {
-        "title": "Uwekezaji na Fedha Binafsi",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
-        "rating": 4.3,
-        "description": "Uwekezaji na fedha binafsi."
-      },
-      {
-        "title": "Mikakati ya Mafanikio ya Biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
-        "rating": 4.6,
-        "description": "Mikakati ya mafanikio ya biashara."
-      },
-      {
-        "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
-        "rating": 4.4,
-        "description": "Masoko ya kidijitali kwa biashara ndogo."
-      },
-      {
-        "title": "Ujasiriamali wa Kisasa",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
-        "rating": 4.7,
-        "description": "Ujasiriamali wa kisasa."
       }
     ],
     "AFYA NA LISHE": [
