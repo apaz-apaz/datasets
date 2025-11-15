@@ -356,18 +356,11 @@
         "description": "Mapishi ya kachori."
       },
       {
-        "title": "Chapati za maji",
+        "title": "Chapati",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/chapati.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chapati_za_maji.jpg",
         "rating": 4.7,
         "description": "Mapishi ya chapati za maji."
-      },
-      {
-        "title": "Chapati za kusukuma",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/chapati_za_kusukuma.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chapati_za_kusukuma.jpg",
-        "rating": 4.5,
-        "description": "Mapishi ya chapati za kusukuma."
       },
       {
         "title": "Maandazi",
@@ -648,6 +641,7 @@
     ]
   }
 }
+
 
 
 
