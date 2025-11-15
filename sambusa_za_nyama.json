@@ -1,20 +1,28 @@
 {
-  "home_economics": {
-    "cooking": {
-      "beginner": {
-        "sambusa_nyama": {
-          "chapter_title": "Jinsi ya Kupika Sambusa za Nyama",
-          "content": "# Jinsi ya Kupika Sambusa za Nyama\n\nSambusa ni chakula cha kitamu kinachopendwa na wengi. Hapa tutakufundisha jinsi ya kutengeneza sambusa za nyama kwa urahisi nyumbani.\n\n![Sambusa](https://i.imgur.com/sambusa.jpg)\n\n---\n\n## Viungo (Kwa Sambusa 20)\n\n| Kiasi | Kiungo |\n|------|--------|\n| 500g | Nyama ya ng'ombe iliyokatwa |\n| 2 | Vitunguu vya kati |\n| 1 | Pilipili hoho |\n| 2 | Karafuu ya vitunguu |\n| 1 tsp | Chumvi |\n| 1 tsp | Pilipili manga |\n| 1 tsp | Bizari |\n| 20 pcs | Keki za sambusa |\n| | Mafuta ya kukaanga |\n\n---\n\n## Hatua za Kupika\n\n### 1. **Andaa Nyama**\n- Kata nyama vipande vidogo.\n- Chemsha kwa dakika 15 hadi iive.\n- Poa na ukate vipande vidogo zaidi.\n\n### 2. **Kaanga Viungo**\n- Kaanga vitunguu hadi viwe vya dhahabu.\n- Ongeza vitunguu saumu na pilipili hoho.\n- Ongeza nyama iliyochemshwa.\n- Ongeza chumvi, pilipili manga na bizari.\n- Koroga kwa dakika 5. Poa.\n\n### 3. **Jaza Sambusa**\n- Weka kijiko 1 cha mchanganyiko wa nyama kwenye keki.\n- Pindisha na ufunge kwa kutumia gundi ya unga (unga + maji).\n\n### 4. **Kaanga**\n- Pasha mafuta hadi yawe moto.\n- Kaanga sambusa hadi ziwe za dhahabu.\n- Weka kwenye karatasi ya kuchuja mafuta.\n\n---\n\n## Vidokezo vya Ziada\n- Tumia nyama isiyo na mafuta mengi.\n- Unaweza kuongeza mayai kwenye mchanganyiko.\n- Sambusa zinaweza kuhifadhiwa kwa siku 2.\n\n> **Jifunze kupika, jipendeze!**"
-        }
-      }
-    },
-    "tips": {
-      "beginner": {
-        "kitchen_safety": {
-          "chapter_title": "Usalama Jikoni",
-          "content": "# Usalama Jikoni\n\n1. Tumia visu kwa uangalifu.\n2. Zima jiko baada ya matumizi.\n3. Weka vifaa vya kuzima moto karibu.\n\n> **Usalama kwanza, ladha baadaye!**"
+      "Sambusa za nyama": {
+        "Utangulizi": {
+          "chapter_title": "Utangulizi",
+          "content": "**Sambusa za nyama** ni chakula cha kitamu kinachopendwa na wengi nchini Tanzania na Afrika Mashariki. Ni sahani rahisi kutengeneza nyumbani, inayofaa kwa **familia, sherehe, au hata kuuza**.\n\n---\n### 1. Faida za Kupika Sambusa Nyumbani\n- **Gharama nafuu:** Unadhibiti viungo na kiasi.\n- **Afya bora:** Tumia nyama safi na mafuta kidogo.\n- **Biashara:** Unaweza kuanza kuuza kwa majirani.\n- **Urahisi:** Inachukua chini ya saa 1 kutengeneza.\n\n---\n### 2. Historia Fupi ya Sambusa\n- Asili yake ni **India na Mashariki ya Kati**.\n- Ililetwa Afrika na **wafanyabiashara**.\n- Leo ni chakula cha kila siku Tanzania.\n\n---\n### 3. Malengo ya eBook Hii\n- Kukufundisha **hatua kwa hatua**.\n- Kutoa **vidokezo vya wataalamu**.\n- Kukuwezesha **kufanya sambusa za ubora wa juu**.\n\n---\n### 4. Vidokezo vya Usalama Jikoni\n- Osha mikono kabla ya kupika.\n- Tumia visu kwa uangalifu.\n- Zima jiko baada ya matumizi.\n\n**Kupika kwa usalama ni kupika kwa furaha!**"
+        },
+        "Viungo na Vifaa": {
+          "chapter_title": "Viungo na Vifaa",
+          "content": "### 1. Viungo (Kwa Sambusa 20)\n| Kiasi | Kiungo |\n|------|--------|\n| 500g | Nyama ya ng'ombe (isiyo na mafuta mengi) |\n| 2 | Vitunguu vya kati (vikatwe vipande vidogo) |\n| 1 | Pilipili hoho (kijani au nyekundu) |\n| 2 | Karafuu ya vitunguu saumu |\n| 1 tsp | Chumvi |\n| 1 tsp | Pilipili manga |\n| 1 tsp | Bizari (au coriander) |\n| 20 pcs | Keki za sambusa (zilizotengenezwa tayari) |\n| 500ml | Mafuta ya kukaanga |\n\n---\n### 2. Vifaa vya Kupikia\n- Sufuria ya kukaanga\n- Kijiko cha mbao\n- Bakuli la kuchanganya\n- Karatasi ya kuchuja mafuta\n- Kisu na ubao wa kukatia\n\n---\n### 3. Vidokezo vya Ununuzi\n- Nunua **nyama safi** siku hiyo.\n- Keki za sambusa zipatikane **duka la bidhaa za India** au soko.\n- Tumia **pilipili manga safi** kwa ladha bora.\n\n> **Viungo bora = Sambusa bora!**"
+        },
+        "Hatua za Kupika": {
+          "chapter_title": "Hatua za Kupika",
+          "content": "### 1. **Andaa Nyama (Dakika 20)**\n- Kata nyama vipande vidogo vidogo.\n- Chemsha kwa maji kidogo na chumvi kwa **dakika 15** hadi iive.\n- Ondoa maji yote na poa nyama.\n\n---\n### 2. **Kaanga Viungo (Dakika 10)**\n- Pasha kijiko 1 cha mafuta kwenye sufuria.\n- Kaanga vitunguu hadi **viwe vya dhahabu**.\n- Ongeza vitunguu saumu na pilipili hoho.\n- Ongeza nyama iliyochemshwa.\n- Ongeza **chumvi, pilipili manga, na bizari**.\n- Koroga kwa **dakika 5**. Poa mchanganyiko.\n\n---\n### 3. **Jaza na Pindisha Sambusa (Dakika 15)**\n- Weka kijiko 1 cha mchanganyiko katikati ya keki.\n- Pindisha kona moja hadi nyingine ili iwe pembetatu.\n- Funika kingo kwa **gundi ya unga** (unga + maji).\n- Hakikisha imefungika vizuri.\n\n---\n### 4. **Kaanga Sambusa (Dakika 10)**\n- Pasha mafuta hadi **yawe moto** (jaribu na kipande cha mkate).\n- Kaanga sambusa **2-3 kwa wakati** hadi ziwe **za dhahabu**.\n- Weka kwenye karatasi ya kuchuja mafuta.\n\n> **Kaanga kwa moto wa kati ili zisichomeke!**"
+        },
+        "Vidokezo vya Wataalamu": {
+          "chapter_title": "Vidokezo vya Wataalamu",
+          "content": "### 1. Jinsi ya Kufanya Sambusa Zibaki za Moto\n- Funika kwa kitambaa safi baada ya kukaanga.\n- Weka kwenye oveni moto wa chini (50°C).\n\n---\n### 2. Kubadilisha Ladha\n- Ongeza **mayai yaliyochemshwa** kwenye mchanganyiko.\n- Tumia **nyama ya kuku** badala ya ng'ombe.\n- Ongeza **jibini** kwa sambusa za kisasa.\n\n---\n### 3. Kuhifadhi Sambusa\n- Sambusa zilizopozwa zinaweza kuhifadhiwa **kwa siku 2** kwenye friji.\n- Weka kwenye mfuko wa plastiki.\n- Pasha tena kwa kukaanga au oveni.\n\n---\n### 4. Jinsi ya Kuuza Sambusa\n- Pakia kwenye **masanduku safi**.\n- Weka lebo: *Sambusa za Nyama – Fresh Daily*.\n- Uza **TSh 500-1000** kila moja.\n\n> **Sambusa sio tu chakula — ni biashara!**"
+        },
+        "Makosa ya Kuepuka": {
+          "chapter_title": "Makosa ya Kuepuka",
+          "content": "### 1. Makosa ya Kawaida\n| Makosa | Suluhisho |\n|-------|----------|\n| Kujaza sana | Sambusa itavunjika |\n| Mafuta baridi | Sambusa itanyonya mafuta |\n| Kufungwa vibaya | Mchanganyiko utatoka |\n| Kukaanga kwa moto mkali | Nje itachoma, ndani haijaiva |\n\n---\n### 2. Jinsi ya Kujua Sambusa Imeiva\n- Rangi ya **dhahabu** sawasawa.\n- Inapoinuliwa, inasikika **kugonga**.\n- Haionyeshi mafuta yanayotoka.\n\n---\n### 3. Jinsi ya Kurekebisha Makosa\n- Ikiwa imevunjika: Tumia kijiko kuondoa mchanganyiko uliotoka.\n- Ikiwa haijapikwa vizuri: Kaanga tena kwa moto wa chini.\n\n> **Makosa ni mwalimu bora zaidi!**"
+        },
+        "Hitimisho": {
+          "chapter_title": "Hitimisho",
+          "content": "### Muhtasari\nKupika **sambusa za nyama** ni rahisi, cha gharama nafuu, na cha kufurahisha. Katika eBook hii tumejifunza:\n\n1. **Viungo na vifaa** muhimu.\n2. **Hatua 4 za msingi** za kupika.\n3. **Vidokezo vya wataalamu** na biashara.\n4. **Makosa ya kuepuka**.\n\n---\n### Faida za Kujifunza Kupika Sambusa\n- Unaweza **kula chakula cha nyumbani**.\n- Unaweza **kuanza biashara ndogo**.\n- Unaweza **kufundisha familia**.\n\n---\n### Kauli ya Mwisho\n> **“Sambusa moja inaweza kuanza safari ya biashara au kuleta furaha jikoni. Anza leo — kaanga sambusa yako ya kwanza!”**\n\n**Asante kwa kusoma. Karibu tena kwenye eBooks za APAZ!**"
         }
       }
     }
-  }
-}
