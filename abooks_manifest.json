@@ -1,243 +1,6 @@
 {
-  "version": 1.2,
+  "version": 1.3,
   "categories": {
-    "UFUGAJI WA KUKU": [
-      {
-        "title": "Ufugaji wa kuku kwa wanao anza",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_kwa_wanaoanza.jpg",
-        "rating": 4.5,
-        "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
-      },
-      {
-        "title": "Magonjwa ya kuku na tiba zake",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Magonjwa_ya_kuku_na_tiba_zake.jpg",
-        "rating": 4.2,
-        "description": "Vidokezo kuhusu magonjwa ya kuku na matibabu."
-      },
-      {
-        "title": "uzalishaji wa vifaranga",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Mbinu_bora_za_uzalishaji_wa_vifaranga.jpg",
-        "rating": 4.3,
-        "description": "Mbinu bora za uzalishaji wa vifaranga."
-      },
-      {
-        "title": "Muundo wa mabanda ya kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Muundo_wa_mabanda_bora_ya_ya_kuku.jpg",
-        "rating": 4.0,
-        "description": "Muundo wa mabanda bora ya kuku."
-      },
-      {
-        "title": "Ufugaji wa kuku wa mayai",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_wa_mayai.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_wa_mayai.jpg",
-        "rating": 4.4,
-        "description": "Ufugaji wa kuku wa mayai."
-      },
-      {
-        "title": "Usimamizi wa kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_kuku_kwa_ufanisi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Usimamizi_wa_kuku_kwa_ufanisi.jpg",
-        "rating": 4.1,
-        "description": "Usimamizi wa kuku kwa ufanisi."
-      },
-      {
-        "title": "Lishe bora kwa kuku",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_kuku.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Lishe_bora_kwa_kuku.jpg",
-        "rating": 4.6,
-        "description": "Lishe bora kwa kuku."
-      }
-    ],
-    "UFUGAJI WA BATA": [
-      {
-        "title": "Ufugaji wa bata kwa wanao anza",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_bata_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_bata_kwa_wanao_anza.jpg",
-        "rating": 4.3,
-        "description": "Mwongozo wa ufugaji wa bata kwa wanaoanza."
-      },
-      {
-        "title": "Magonjwa ya bata na tiba zake",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_bata_na_tiba_zake.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/magonjwa_ya_bata_na_tiba_zake.jpg",
-        "rating": 4.0,
-        "description": "Vidokezo kuhusu magonjwa ya bata na matibabu."
-      },
-      {
-        "title": "uzalishaji wa vifaranga",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uzalishaji_wa_vifaranga.jpg",
-        "rating": 4.3,
-        "description": "Mbinu bora za uzalishaji wa vifaranga."
-      },
-      {
-        "title": "Muundo wa mabanda ya bata",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_bata.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/muundo_wa_mabanda_ya_bata.jpg",
-        "rating": 4.1,
-        "description": "Muundo wa mabanda bora ya bata."
-      },
-      {
-        "title": "Usimamizi wa bata",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_bata_kwa_ufanisi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/usimamizi_wa_bata.jpg",
-        "rating": 4.2,
-        "description": "Usimamizi wa bata kwa ufanisi."
-      },
-      {
-        "title": "Lishe bora kwa bata",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_bata.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_bata.jpg",
-        "rating": 4.4,
-        "description": "Lishe bora kwa bata."
-      }
-    ],
-    "EDUCATION": [
-      {
-        "title": "PHYSICS-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.png",
-        "rating": 4.7,
-        "description": "Physics Form 1 notes."
-      },
-      {
-        "title": "PHYSICS-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.png",
-        "rating": 4.6,
-        "description": "Physics Form 2 notes."
-      },
-      {
-        "title": "PHYSICS-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.png",
-        "rating": 4.5,
-        "description": "Physics Form 3 notes."
-      },
-      {
-        "title": "PHYSICS-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.png",
-        "rating": 4.8,
-        "description": "Physics Form 4 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
-        "rating": 4.4,
-        "description": "Chemistry Form 1 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.png",
-        "rating": 4.5,
-        "description": "Chemistry Form 2 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.png",
-        "rating": 4.6,
-        "description": "Chemistry Form 3 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.png",
-        "rating": 4.7,
-        "description": "Chemistry Form 4 notes."
-      },
-      {
-        "title": "BIOLOGY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
-        "rating": 4.5,
-        "description": "Biology Form 1 notes."
-      },
-      {
-        "title": "BIOLOGY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpeg",
-        "rating": 4.6,
-        "description": "Biology Form 2 notes."
-      },
-      {
-        "title": "BIOLOGY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpeg",
-        "rating": 4.7,
-        "description": "Biology Form 3 notes."
-      },
-      {
-        "title": "BIOLOGY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpeg",
-        "rating": 4.8,
-        "description": "Biology Form 4 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form1.jpg",
-        "rating": 4.4,
-        "description": "Mathematics Form 1 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form2.jpg",
-        "rating": 4.5,
-        "description": "Mathematics Form 2 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form3.jpg",
-        "rating": 4.6,
-        "description": "Mathematics Form 3 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form4.jpg",
-        "rating": 4.7,
-        "description": "Mathematics Form 4 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
-        "rating": 4.3,
-        "description": "Geography Form 1 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
-        "rating": 4.4,
-        "description": "Geography Form 2 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
-        "rating": 4.5,
-        "description": "Geography Form 3 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form4.jpg",
-        "rating": 4.6,
-        "description": "Geography Form 4 notes."
-      }
-    ],
     "UJASIRIAMALI NA BIASHARA": [
       {
         "title": "Namna ya Kuanzisha biashara",
@@ -454,6 +217,243 @@
         "description": "Mapishi ya mkate wa mchele."
       }
     ],
+    "EDUCATION": [
+      {
+        "title": "PHYSICS-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.png",
+        "rating": 4.7,
+        "description": "Physics Form 1 notes."
+      },
+      {
+        "title": "PHYSICS-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.png",
+        "rating": 4.6,
+        "description": "Physics Form 2 notes."
+      },
+      {
+        "title": "PHYSICS-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.png",
+        "rating": 4.5,
+        "description": "Physics Form 3 notes."
+      },
+      {
+        "title": "PHYSICS-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.png",
+        "rating": 4.8,
+        "description": "Physics Form 4 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
+        "rating": 4.4,
+        "description": "Chemistry Form 1 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.png",
+        "rating": 4.5,
+        "description": "Chemistry Form 2 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.png",
+        "rating": 4.6,
+        "description": "Chemistry Form 3 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.png",
+        "rating": 4.7,
+        "description": "Chemistry Form 4 notes."
+      },
+      {
+        "title": "BIOLOGY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
+        "rating": 4.5,
+        "description": "Biology Form 1 notes."
+      },
+      {
+        "title": "BIOLOGY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpeg",
+        "rating": 4.6,
+        "description": "Biology Form 2 notes."
+      },
+      {
+        "title": "BIOLOGY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpeg",
+        "rating": 4.7,
+        "description": "Biology Form 3 notes."
+      },
+      {
+        "title": "BIOLOGY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpeg",
+        "rating": 4.8,
+        "description": "Biology Form 4 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form1.jpg",
+        "rating": 4.4,
+        "description": "Mathematics Form 1 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form2.jpg",
+        "rating": 4.5,
+        "description": "Mathematics Form 2 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form3.jpg",
+        "rating": 4.6,
+        "description": "Mathematics Form 3 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form4.jpg",
+        "rating": 4.7,
+        "description": "Mathematics Form 4 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
+        "rating": 4.3,
+        "description": "Geography Form 1 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
+        "rating": 4.4,
+        "description": "Geography Form 2 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
+        "rating": 4.5,
+        "description": "Geography Form 3 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form4.jpg",
+        "rating": 4.6,
+        "description": "Geography Form 4 notes."
+      }
+    ],
+    "UFUGAJI WA KUKU": [
+      {
+        "title": "Ufugaji wa kuku kwa wanao anza",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_kwa_wanaoanza.jpg",
+        "rating": 4.5,
+        "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
+      },
+      {
+        "title": "Magonjwa ya kuku na tiba zake",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Magonjwa_ya_kuku_na_tiba_zake.jpg",
+        "rating": 4.2,
+        "description": "Vidokezo kuhusu magonjwa ya kuku na matibabu."
+      },
+      {
+        "title": "uzalishaji wa vifaranga",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Mbinu_bora_za_uzalishaji_wa_vifaranga.jpg",
+        "rating": 4.3,
+        "description": "Mbinu bora za uzalishaji wa vifaranga."
+      },
+      {
+        "title": "Muundo wa mabanda ya kuku",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_kuku.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Muundo_wa_mabanda_bora_ya_ya_kuku.jpg",
+        "rating": 4.0,
+        "description": "Muundo wa mabanda bora ya kuku."
+      },
+      {
+        "title": "Ufugaji wa kuku wa mayai",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_wa_mayai.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_wa_mayai.jpg",
+        "rating": 4.4,
+        "description": "Ufugaji wa kuku wa mayai."
+      },
+      {
+        "title": "Usimamizi wa kuku",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_kuku_kwa_ufanisi.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Usimamizi_wa_kuku_kwa_ufanisi.jpg",
+        "rating": 4.1,
+        "description": "Usimamizi wa kuku kwa ufanisi."
+      },
+      {
+        "title": "Lishe bora kwa kuku",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_kuku.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Lishe_bora_kwa_kuku.jpg",
+        "rating": 4.6,
+        "description": "Lishe bora kwa kuku."
+      }
+    ],
+    "UFUGAJI WA BATA": [
+      {
+        "title": "Ufugaji wa bata kwa wanao anza",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_bata_kwa_wanaoanza.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ufugaji_wa_bata_kwa_wanao_anza.jpg",
+        "rating": 4.3,
+        "description": "Mwongozo wa ufugaji wa bata kwa wanaoanza."
+      },
+      {
+        "title": "Magonjwa ya bata na tiba zake",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_bata_na_tiba_zake.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/magonjwa_ya_bata_na_tiba_zake.jpg",
+        "rating": 4.0,
+        "description": "Vidokezo kuhusu magonjwa ya bata na matibabu."
+      },
+      {
+        "title": "uzalishaji wa vifaranga",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mbinu_bora_za_uzalishaji_wa_vifaranga.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uzalishaji_wa_vifaranga.jpg",
+        "rating": 4.3,
+        "description": "Mbinu bora za uzalishaji wa vifaranga."
+      },
+      {
+        "title": "Muundo wa mabanda ya bata",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Muundo_wa_mabanda_bora_ya_bata.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/muundo_wa_mabanda_ya_bata.jpg",
+        "rating": 4.1,
+        "description": "Muundo wa mabanda bora ya bata."
+      },
+      {
+        "title": "Usimamizi wa bata",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Usimamizi_wa_bata_kwa_ufanisi.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/usimamizi_wa_bata.jpg",
+        "rating": 4.2,
+        "description": "Usimamizi wa bata kwa ufanisi."
+      },
+      {
+        "title": "Lishe bora kwa bata",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_bora_kwa_bata.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_bora_kwa_bata.jpg",
+        "rating": 4.4,
+        "description": "Lishe bora kwa bata."
+      }
+    ],
     "RIWAYA": [
       {
         "title": "Namna ya Kuanzisha biashara",
@@ -641,6 +641,7 @@
     ]
   }
 }
+
 
 
 
