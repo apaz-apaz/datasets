@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "categories": {
     "UFUGAJI WA KUKU": [
       {
@@ -278,49 +278,49 @@
     "AFYA NA LISHE": [
       {
         "title": "Lishe kwa mama mjamzito",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mama_mjamzito.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mama_mjamzito.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mama_mjamzito.jpg",
         "rating": 4.5,
         "description": "Lishe kwa mama mjamzito."
       },
       {
         "title": "Lishe kwa mtoto wa mwaka 0-1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_0-1.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mtoto_wa_mwaka_0-1.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_0-1.jpg",
         "rating": 4.4,
         "description": "Lishe kwa mtoto wa mwaka 0-1."
       },
       {
         "title": "Lishe kwa mtoto wa mwaka 1-2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_1-2.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mtoto_wa_mwaka_1-2.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_1-2.jpg",
         "rating": 4.3,
         "description": "Lishe kwa mtoto wa mwaka 1-2."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 2-5",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_2-5.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mtoto_wa_mwaka_2-5.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_2-5.jpg",
         "rating": 4.6,
         "description": "Lishe kwa mtoto wa miaka 2-5."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 5-7",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_miaka_5-7.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mtoto_wa_miaka_5-7.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_miaka_5-7.jpg",
         "rating": 4.2,
         "description": "Lishe kwa mtoto wa miaka 5-7."
       },
       {
         "title": "Lishe kwa mtoto wa miaka 7-10",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_mtoto_wa_mwaka_7-10.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_mtoto_wa_mwaka_7-10.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_mtoto_wa_mwaka_7-10.jpg",
         "rating": 4.5,
         "description": "Lishe kwa mtoto wa miaka 7-10."
       },
       {
         "title": "Lishe kwa watu wazima",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Lishe_kwa_watu_wazima.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/lishe_kwa_watu_wazima.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/lishe_kwa_watu_wazima.jpg",
         "rating": 4.7,
         "description": "Lishe kwa watu wazima."
@@ -641,6 +641,7 @@
     ]
   }
 }
+
 
 
 
