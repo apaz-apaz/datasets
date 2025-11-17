@@ -135,7 +135,7 @@
       },
       {
         "title": "cooking been cakes",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cooking_been_cakes.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cooking_been_cake.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/bagia_za_dengu.jpg",
         "rating": 4.2,
         "description": "Mapishi ya bagia za dengu."
@@ -148,7 +148,7 @@
         "description": "Mapishi ya bagia za kunde."
       },
       {
-        "title": "cooking_pizza",
+        "title": "cooking pizza",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cooking_pizza.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/visheti.jpg",
         "rating": 4.4,
