@@ -153,7 +153,7 @@
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/visheti.jpg",
         "rating": 4.4,
         "description": "Mapishi ya visheti."
-      },
+      }
     ],
 
     "NOVELS": [
@@ -578,5 +578,4 @@
     ]
   }
 }
-
 
