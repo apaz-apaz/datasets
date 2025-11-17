@@ -1,32 +1,11 @@
 {
   "Mr Hurry and the Phone That Ate Bread": {
-    "Introduction": {
-      "chapter_title": "Welcome to Mcheche Village",
-      "content": "In the small village of Mcheche, everyone knew one man: Bwana Haraka. He was called Haraka because he was always running. Running to work, running to church, running to the shop, running to the toilet. But somehow, he was still late for everything.\n\nOne day he bought the newest phone in Dar es Salaam – a shiny Samsung Galaxy Ultra Mega Plus. He loved it more than his own children. He even kissed it goodnight.\n\nLittle did he know… this phone had a very strange habit."
-    },
-    "Chapter 1": {
-      "chapter_title": "The Day the Phone Discovered Chapati",
-      "content": "Bwana Haraka woke up at 5:45 AM (which was sleeping in for him). He grabbed his fresh chapati from Mama Ntilie, put on his shoes, and ran out the door.\n\nWhile running to the daladala stand, he took out his new phone to check WhatsApp. The phone slipped, fell straight onto the chapati, and… CHOMP!\n\n![Shocked man watching his phone eat chapati](https://images.unsplash.com/photo-1623428454735-7e7d2ee8d9b3?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800)\n\nThe phone ate the entire chapati in 3 seconds flat.\n\nBwana Haraka screamed, 'Wewe! My breakfast!' The phone just showed a smiling emoji and said, 'Yummy' on the screen."
-    },
-    "Chapter 2": {
-      "chapter_title": "Breakfast Disaster at 200 km/h",
-      "content": "The next morning, Bwana Haraka was smarter. He put the chapati in a plastic bag, tied it with seven knots, and held it in his teeth while running.\n\nHe took out the phone to take a selfie. The phone saw the chapati in his mouth and… ZOOM! It flew out of his hand, bit the chapati through the plastic, and swallowed everything – plastic, knots, and all.\n\nNow the phone started burping notifications: 'Burp… new message… burp… low battery.'\n\nThe whole daladala laughed until they cried."
-    },
-    "Chapter 3": {
-      "chapter_title": "The Phone Joins WhatsApp Food Group",
-      "content": "By the third day, the phone had joined every food WhatsApp group in Tanzania: 'Mama Lishe Specials', 'Keki za Arusha', 'Nyama Choma Deals', even 'Vegans Tanzania' (it was very confused that day).\n\nEvery time someone posted a photo of food, the phone would vibrate, open its camera, and try to eat the screen.\n\nBwana Haraka’s boss sent a message: 'Come to office NOW!' The phone saw the word 'now' and thought it was 'naan'. It ate the message and replied with crumbs.\n\nHe got fired by autocorrect."
-    },
-    "Chapter 4": {
-      "chapter_title": "Village Meeting: Should We Ban Bread Near Phones?",
-      "content": "The village elders called an emergency meeting under the mango tree.\n\nMzee Koba said, 'This phone is a danger to society! Yesterday it tried to eat my mandazi while I was video-combing my grandson!'\n\nMama Fatuma added, 'It stole my child’s biscuit during online classes!'\n\nThey passed a new law: 'No bread, chapati, mandazi, or vitumbua within 2 metres of Bwana Haraka’s phone.'\n\nThe phone read the new law and sent a crying emoji to the village admin."
-    },
-    "Chapter 5": {
-      "chapter_title": "Mr Hurry vs Samsung – The Final Bite",
-      "content": "Bwana Haraka decided enough was enough. He went to the shop in Kariakoo and shouted, 'I want my money back! This phone eats everything!'\n\nThe shopkeeper laughed. 'Sir, that is the new Samsung Galaxy Hunger Edition – specially made for Tanzania. It runs on chapati power!'\n\nBwana Haraka had only one choice left. That night he made 50 chapatis, stacked them like a tower, and left the phone on top.\n\n![Empty plate with a thank-you note and phone crumbs](https://images.unsplash.com/photo-1551107696-6d3c2f7e1c98?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800)\n\nIn the morning… the phone was gone. Only a thank-you note remained:\n'Thank you for the best week ever. Now I am fully charged for 10 years!'"
-    },
-    "Conclusion": {
-      "chapter_title": "The Moral of the Story",
-      "content": "From that day, Bwana Haraka stopped running. He walks slowly now, eating his chapati peacefully before touching his phone.\n\nAnd somewhere in phone heaven, there is one very fat, very happy Samsung that never needs charging again.\n\nThe end.\n\n(But sometimes at night, people in Mcheche village still hear a quiet burp coming from the sky…)"
-    }
+    "Introduction": { "chapter_title": "Welcome to Mcheche Village", "content": "In the small village of Mcheche, everyone knew one man: Bwana Haraka. He was always running but somehow still late for everything...\n\nOne day he bought the newest phone in Dar es Salaam – and it had a very strange appetite." },
+    "Chapter 1": { "chapter_title": "The Day the Phone Discovered Chapati", "content": "While running to the daladala, the phone slipped and… CHOMP!\n\n![Phone eating chapati](https://i.ibb.co/4p7Z7vZ/phone-eating-chapati.jpg)\n\nThe phone swallowed the entire chapati in 3 seconds!" },
+    "Chapter 2": { "chapter_title": "Breakfast Disaster at 200 km/h", "content": "The next day he tied the chapati with seven knots. The phone still ate the plastic too!" },
+    "Chapter 3": { "chapter_title": "The Phone Joins WhatsApp Food Group", "content": "It joined every food group in Tanzania. When the boss wrote 'Come NOW', it thought he said 'naan' and ate the message." },
+    "Chapter 4": { "chapter_title": "Village Meeting", "content": "They passed a law: No chapati within 2 metres of Bwana Haraka’s phone!" },
+    "Chapter 5": { "chapter_title": "The Final Bite", "content": "He left 50 chapatis for the phone overnight.\n\n![Empty plate](https://i.ibb.co/8XgqKxL/empty-plate-crumbs.jpg)\n\nMorning: only a thank-you note remained!" },
+    "Conclusion": { "chapter_title": "The Moral", "content": "Now Bwana Haraka walks slowly and eats first. And somewhere there’s a very fat, very happy phone that never needs charging again." }
   }
 }
