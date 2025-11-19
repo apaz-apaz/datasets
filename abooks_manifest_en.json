@@ -160,37 +160,37 @@
       {
         "title": "The Girl Who Married the Moon",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Girl Who Married the Moon.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Girl Who Married the Moon.jpg",
         "rating": 4.5,
-        "description": "Riwaya kuhusu kuanzisha biashara."
+        "description": ""
       },
       {
-        "title": "Uwekezaji na Fedha Binafsi",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
+        "title": "Secrets Under the Baobab Tree",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Secrets Under the Baobab Tree.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Secrets Under the Baobab Tree.jpg",
         "rating": 4.3,
-        "description": "Riwaya kuhusu uwekezaji."
+        "description": ""
       },
       {
-        "title": "Mikakati ya Mafanikio ya Biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
+        "title": "The Boy Who Sold His Shadow",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Boy Who Sold His Shadow.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Boy Who Sold His Shadow.jpg",
         "rating": 4.6,
-        "description": "Riwaya kuhusu mikakati ya biashara."
+        "description": ""
       },
       {
-        "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
+        "title": "When the Ocean Forgot Our Names",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/When the Ocean Forgot Our Names.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/When the Ocean Forgot Our Names.jpg",
         "rating": 4.4,
-        "description": "Riwaya kuhusu masoko ya kidijitali."
+        "description": ""
       },
       {
-        "title": "Ujasiriamali wa Kisasa",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
+        "title": "The Village That Swallowed the Sun",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Village That Swallowed the Sun.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Village That Swallowed the Sun.jpg",
         "rating": 4.7,
-        "description": "Riwaya kuhusu ujasiriamali."
+        "description": ""
       }
     ],
     "PLAYS": [
@@ -199,14 +199,14 @@
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
-        "description": "Tamthilia kuhusu kuanzisha biashara."
+        "description": ""
       },
       {
         "title": "Uwekezaji na Fedha Binafsi",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
         "rating": 4.3,
-        "description": "Tamthilia kuhusu uwekezaji."
+        "description": ""
       },
       {
         "title": "Mikakati ya Mafanikio ya Biashara",
