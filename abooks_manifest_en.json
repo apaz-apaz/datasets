@@ -158,8 +158,8 @@
 
     "NOVELS": [
       {
-        "title": "Namna ya Kuanzisha biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
+        "title": "The Girl Who Married the Moon",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Girl Who Married the Moon.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
         "rating": 4.5,
         "description": "Riwaya kuhusu kuanzisha biashara."
