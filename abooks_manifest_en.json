@@ -1,7 +1,7 @@
 {
   "version": 3.3,
   "categories": {
-    "BUSINESS AND ENTREPRENEURSHIP": [
+    "ENTREPRENEURSHIP": [
       {
         "title": "Modern Entrepreneurship",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Modern_Entrepreneurship.json",
@@ -156,154 +156,6 @@
       }
     ],
 
-    "NOVELS": [
-      {
-        "title": "The Girl Who Married the Moon",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Girl Who Married the Moon.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Girl Who Married the Moon.jpg",
-        "rating": 4.5,
-        "description": ""
-      },
-      {
-        "title": "Secrets Under the Baobab Tree",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Secrets Under the Baobab Tree.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Secrets Under the Baobab Tree.jpg",
-        "rating": 4.3,
-        "description": ""
-      },
-      {
-        "title": "The Boy Who Sold His Shadow",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Boy Who Sold His Shadow.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Boy Who Sold His Shadow.jpg",
-        "rating": 4.6,
-        "description": ""
-      },
-      {
-        "title": "When the Ocean Forgot Our Names",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/When the Ocean Forgot Our Names.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/When the Ocean Forgot Our Names.jpg",
-        "rating": 4.4,
-        "description": ""
-      },
-      {
-        "title": "The Village That Swallowed the Sun",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Village That Swallowed the Sun.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Village That Swallowed the Sun.jpg",
-        "rating": 4.7,
-        "description": ""
-      }
-    ],
-    "PLAYS": [
-      {
-        "title": "Namna ya Kuanzisha biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
-        "rating": 4.5,
-        "description": ""
-      },
-      {
-        "title": "Uwekezaji na Fedha Binafsi",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
-        "rating": 4.3,
-        "description": ""
-      },
-      {
-        "title": "Mikakati ya Mafanikio ya Biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
-        "rating": 4.6,
-        "description": "Tamthilia kuhusu mikakati ya biashara."
-      },
-      {
-        "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
-        "rating": 4.4,
-        "description": "Tamthilia kuhusu masoko ya kidijitali."
-      },
-      {
-        "title": "Ujasiriamali wa Kisasa",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
-        "rating": 4.7,
-        "description": "Tamthilia kuhusu ujasiriamali."
-      }
-    ],
-    "STORIES": [
-      {
-        "title": "Namna ya Kuanzisha biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
-        "rating": 4.5,
-        "description": "Hadithi kuhusu kuanzisha biashara."
-      },
-      {
-        "title": "Uwekezaji na Fedha Binafsi",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
-        "rating": 4.3,
-        "description": "Hadithi kuhusu uwekezaji."
-      },
-      {
-        "title": "Mikakati ya Mafanikio ya Biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
-        "rating": 4.6,
-        "description": "Hadithi kuhusu mikakati ya biashara."
-      },
-      {
-        "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
-        "rating": 4.4,
-        "description": "Hadithi kuhusu masoko ya kidijitali."
-      },
-      {
-        "title": "Ujasiriamali wa Kisasa",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
-        "rating": 4.7,
-        "description": "Hadithi kuhusu ujasiriamali."
-      }
-    ],
-    "POEMS": [
-      {
-        "title": "Namna ya Kuanzisha biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Kuanzisha_na_Kudhibiti_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/namna_ya_kuanzisha_biashara.jpg",
-        "rating": 4.5,
-        "description": "Mashairi kuhusu kuanzisha biashara."
-      },
-      {
-        "title": "Uwekezaji na Fedha Binafsi",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Uwekezaji_na_Fedha_Binafsi.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/uwekezaji_na_fedha_binafsi.jpg",
-        "rating": 4.3,
-        "description": "Mashairi kuhusu uwekezaji."
-      },
-      {
-        "title": "Mikakati ya Mafanikio ya Biashara",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Mikakati_ya_Mafanikio_ya_Biashara.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mikakati_ya_mafanikio_ya_biashara.jpg",
-        "rating": 4.6,
-        "description": "Mashairi kuhusu mikakati ya biashara."
-      },
-      {
-        "title": "Masoko ya Kidijitali kwa Biashara Ndogo",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Masoko_ya_Kidijitali_kwa_Biashara_Ndogo.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/masoko_ya_kidijitali_kwa_biashara_ndogo.jpg",
-        "rating": 4.4,
-        "description": "Mashairi kuhusu masoko ya kidijitali."
-      },
-      {
-        "title": "Ujasiriamali wa Kisasa",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ujasiriamali_wa_Kisasa.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/ujasiriamali_wa_kisasa.jpg",
-        "rating": 4.7,
-        "description": "Mashairi kuhusu ujasiriamali."
-      }
-    ],
     "JOKES": [
       {
         "title": "Mr Hurry and the Phone That Ate Bread",
@@ -376,7 +228,46 @@
         "description": "Vichekesho kuhusu masoko ya kidijitali."
       }
     ],
-    "CHICKEN FARMING": [
+
+    "STORIES": [
+      {
+        "title": "The Girl Who Married the Moon",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Girl Who Married the Moon.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Girl Who Married the Moon.jpg",
+        "rating": 4.5,
+        "description": ""
+      },
+      {
+        "title": "Secrets Under the Baobab Tree",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Secrets Under the Baobab Tree.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Secrets Under the Baobab Tree.jpg",
+        "rating": 4.3,
+        "description": ""
+      },
+      {
+        "title": "The Boy Who Sold His Shadow",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Boy Who Sold His Shadow.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Boy Who Sold His Shadow.jpg",
+        "rating": 4.6,
+        "description": ""
+      },
+      {
+        "title": "When the Ocean Forgot Our Names",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/When the Ocean Forgot Our Names.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/When the Ocean Forgot Our Names.jpg",
+        "rating": 4.4,
+        "description": ""
+      },
+      {
+        "title": "The Village That Swallowed the Sun",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/The Village That Swallowed the Sun.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/The Village That Swallowed the Sun.jpg",
+        "rating": 4.7,
+        "description": ""
+      }
+    ],
+    
+    "FARMING": [
       {
         "title": "Chicken Farming for Beginners",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Chicken_Farming_for_Beginners.json",
