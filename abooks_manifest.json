@@ -256,13 +256,6 @@
     ],
     "KILIMO & UFUGAJI": [
       {
-        "title": "Ufugaji wa kuku kwa wanao anza",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Ufugaji_wa_kuku_kwa_wanaoanza.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Ufugaji_wa_kuku_kwa_wanaoanza.jpg",
-        "rating": 4.5,
-        "description": "Mwongozo wa ufugaji wa kuku kwa wanaoanza."
-      },
-      {
         "title": "Magonjwa ya kuku na tiba zake",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/Magonjwa_ya_kuku_na_tiba_zake.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/Magonjwa_ya_kuku_na_tiba_zake.jpg",
@@ -307,6 +300,7 @@
     ]
   }
 }
+
 
 
 
