@@ -9,29 +9,20 @@
         "rating": 4.7,
         "description": "Physics Form 1 notes."
       },
-      
-      
-      
       {
         "title": "CHEMISTRY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
         "rating": 4.4,
         "description": "Chemistry Form 1 notes."
-      },
-      
-      
-      
+      }, 
       {
         "title": "BIOLOGY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
         "rating": 4.5,
         "description": "Biology Form 1 notes."
-      },
-      
-      
-      
+      },  
       {
         "title": "MATHEMATICS-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
@@ -39,19 +30,13 @@
         "rating": 4.4,
         "description": "Mathematics Form 1 notes."
       },
-      
-      
-      
       {
         "title": "GEOGRAPHY-Form1",
         "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
         "rating": 4.3,
         "description": "Geography Form 1 notes."
-      },
-      
-      
-      
+      } 
     ],
     "FORM TWO": [
       {
@@ -88,7 +73,7 @@
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
         "rating": 4.4,
         "description": "Geography Form 2 notes."
-      },
+      }
     ],
     "FORM THREE": [
       {
@@ -125,7 +110,7 @@
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
         "rating": 4.5,
         "description": "Geography Form 3 notes."
-      },
+      }
     ],
     "FORM FOUR": [
      {
