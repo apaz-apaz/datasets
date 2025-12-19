@@ -1,6 +1,169 @@
 {
   "version": 3.31,
   "categories": {
+    "FORM ONE": [
+      {
+        "title": "PHYSICS-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.png",
+        "rating": 4.7,
+        "description": "Physics Form 1 notes."
+      },
+      
+      
+      
+      {
+        "title": "CHEMISTRY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
+        "rating": 4.4,
+        "description": "Chemistry Form 1 notes."
+      },
+      
+      
+      
+      {
+        "title": "BIOLOGY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
+        "rating": 4.5,
+        "description": "Biology Form 1 notes."
+      },
+      
+      
+      
+      {
+        "title": "MATHEMATICS-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form1.jpg",
+        "rating": 4.4,
+        "description": "Mathematics Form 1 notes."
+      },
+      
+      
+      
+      {
+        "title": "GEOGRAPHY-Form1",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
+        "rating": 4.3,
+        "description": "Geography Form 1 notes."
+      },
+      
+      
+      
+    ],
+    "FORM TWO": [
+      {
+        "title": "PHYSICS-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.png",
+        "rating": 4.6,
+        "description": "Physics Form 2 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.png",
+        "rating": 4.5,
+        "description": "Chemistry Form 2 notes."
+      },
+      {
+        "title": "BIOLOGY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpeg",
+        "rating": 4.6,
+        "description": "Biology Form 2 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form2.jpg",
+        "rating": 4.5,
+        "description": "Mathematics Form 2 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form2",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form2.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
+        "rating": 4.4,
+        "description": "Geography Form 2 notes."
+      },
+    ],
+    "FORM THREE": [
+      {
+        "title": "PHYSICS-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.png",
+        "rating": 4.5,
+        "description": "Physics Form 3 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.png",
+        "rating": 4.6,
+        "description": "Chemistry Form 3 notes."
+      },
+      {
+        "title": "BIOLOGY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpeg",
+        "rating": 4.7,
+        "description": "Biology Form 3 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form3.jpg",
+        "rating": 4.6,
+        "description": "Mathematics Form 3 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form3",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form3.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
+        "rating": 4.5,
+        "description": "Geography Form 3 notes."
+      },
+    ],
+    "FORM FOUR": [
+     {
+        "title": "PHYSICS-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.png",
+        "rating": 4.8,
+        "description": "Physics Form 4 notes."
+      },
+      {
+        "title": "CHEMISTRY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.png",
+        "rating": 4.7,
+        "description": "Chemistry Form 4 notes."
+      },
+      {
+        "title": "BIOLOGY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpeg",
+        "rating": 4.8,
+        "description": "Biology Form 4 notes."
+      },
+      {
+        "title": "MATHEMATICS-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form4.jpg",
+        "rating": 4.7,
+        "description": "Mathematics Form 4 notes."
+      },
+      {
+        "title": "GEOGRAPHY-Form4",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form4.json",
+        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form4.jpg",
+        "rating": 4.6,
+        "description": "Geography Form 4 notes."
+      }
+    ],
     "BUSINESS": [
       {
         "title": "Modern Entrepreneurship",
@@ -325,148 +488,7 @@
         "description": "Lishe bora kwa kuku."
       }
     ],
-    "EDUCATION": [
-      {
-        "title": "PHYSICS-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form1.png",
-        "rating": 4.7,
-        "description": "Physics Form 1 notes."
-      },
-      {
-        "title": "PHYSICS-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form2.png",
-        "rating": 4.6,
-        "description": "Physics Form 2 notes."
-      },
-      {
-        "title": "PHYSICS-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form3.png",
-        "rating": 4.5,
-        "description": "Physics Form 3 notes."
-      },
-      {
-        "title": "PHYSICS-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/PHYSICS-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-form4.png",
-        "rating": 4.8,
-        "description": "Physics Form 4 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form1.png",
-        "rating": 4.4,
-        "description": "Chemistry Form 1 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form2.png",
-        "rating": 4.5,
-        "description": "Chemistry Form 2 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form3.png",
-        "rating": 4.6,
-        "description": "Chemistry Form 3 notes."
-      },
-      {
-        "title": "CHEMISTRY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/CHEMISTRY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/chemistry-form4.png",
-        "rating": 4.7,
-        "description": "Chemistry Form 4 notes."
-      },
-      {
-        "title": "BIOLOGY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form1.jpeg",
-        "rating": 4.5,
-        "description": "Biology Form 1 notes."
-      },
-      {
-        "title": "BIOLOGY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form2.jpeg",
-        "rating": 4.6,
-        "description": "Biology Form 2 notes."
-      },
-      {
-        "title": "BIOLOGY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form3.jpeg",
-        "rating": 4.7,
-        "description": "Biology Form 3 notes."
-      },
-      {
-        "title": "BIOLOGY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/BIOLOGY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/biology-form4.jpeg",
-        "rating": 4.8,
-        "description": "Biology Form 4 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form1.jpg",
-        "rating": 4.4,
-        "description": "Mathematics Form 1 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form2.jpg",
-        "rating": 4.5,
-        "description": "Mathematics Form 2 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form3.jpg",
-        "rating": 4.6,
-        "description": "Mathematics Form 3 notes."
-      },
-      {
-        "title": "MATHEMATICS-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/MATHEMATICS-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/mathematics-form4.jpg",
-        "rating": 4.7,
-        "description": "Mathematics Form 4 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form1.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form1.jpg",
-        "rating": 4.3,
-        "description": "Geography Form 1 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form2",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form2.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form2.jpg",
-        "rating": 4.4,
-        "description": "Geography Form 2 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form3",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form3.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form3.jpg",
-        "rating": 4.5,
-        "description": "Geography Form 3 notes."
-      },
-      {
-        "title": "GEOGRAPHY-Form4",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/GEOGRAPHY-Form4.json",
-        "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/geography-form4.jpg",
-        "rating": 4.6,
-        "description": "Geography Form 4 notes."
-      }
-    ]
+    
   }
 }
 
