@@ -1,8 +1,6 @@
 {
-  "Physics": {
-    "Form 1 Exams": {
-      "Form 1": {
-        "Exam Paper": {
+      "TERMINAL EXAMS-SERIES1": {
+        "Physics-Exam Paper": {
           "chapter_title": "Physics Form 1 - Terminal Examination",
           "content": "# Physics Form 1 Terminal Examination\n\n**Time: 2 Hours 30 Minutes**  \n**Total Marks: 100**\n\n## Section A: Multiple Choice (20 marks)\nAnswer all questions.\n\n1. The study of matter in relation to energy is called:\n   A. Chemistry  B. Biology  C. Physics  D. Geography\n\n2. Anything that has mass and occupies space is known as:\n   A. Energy  B. Force  C. Matter  D. Power\n\n3. The SI unit of length is:\n   A. Kilogram  B. Second  C. Metre  D. Newton\n\n4. The force that opposes motion between two surfaces in contact is:\n   A. Gravitational force  B. Friction  C. Magnetic force  D. Tension\n\n5. Density is calculated as:\n   A. Volume / Mass  B. Mass / Volume  C. Force / Area  D. Pressure / Force\n\n6. The upward force exerted by a fluid on an object immersed in it is called:\n   A. Friction  B. Upthrust  C. Gravity  D. Tension\n\n7. Pressure in liquids increases with:\n   A. Decrease in depth  B. Increase in depth  C. Increase in area  D. Decrease in density\n\n8. Elasticity is the ability of a material to:\n   A. Break easily  B. Return to original shape after deformation  C. Float in water  D. Conduct heat\n\n9. The three states of matter are:\n   A. Solid, liquid, gas  B. Solid, water, air  C. Ice, water, steam  D. Metal, plastic, wood\n\n10. A vernier caliper is used to measure:\n    A. Time  B. Mass  C. Small lengths accurately  D. Temperature\n\n## Section B: Short Answer Questions (40 marks)\n\n11. Define Physics and mention three branches of Physics. (5 marks)\n\n12. Explain why Physics is important in daily life (give 4 examples). (4 marks)\n\n13. Convert 50°C to Kelvin scale. (2 marks)\n\n14. A body has mass 2 kg and volume 0.5 m³. Calculate its density. (3 marks)\n\n15. State Archimedes' Principle. (3 marks)\n\n16. Differentiate between mass and weight. (4 marks)\n\n17. Explain how friction can be reduced in machines. (4 marks)\n\n18. A stone of weight 10 N is fully immersed in water. If upthrust is 4 N, calculate apparent weight. (3 marks)\n\n19. Define pressure and state its formula. (3 marks)\n\n20. Explain surface tension with one example. (5 marks)\n\n## Section C: Structured/Essay Questions (40 marks)\nAnswer any two questions.\n\n21. (a) Describe the structure of matter using kinetic theory. (6 marks)\n    (b) Explain adhesion and cohesion with examples. (6 marks)\n    (c) What is capillarity? Give one application. (3 marks)\n\n22. (a) Explain how to measure volume of an irregular object using displacement method. (6 marks)\n    (b) A density bottle has mass 20 g empty and 70 g full of water. When full of oil, mass is 62 g. Calculate density of oil. (Density of water = 1 g/cm³) (9 marks)\n\n23. (a) State the law of flotation. (4 marks)\n    (b) Explain why a ship floats while a needle sinks in water. (6 marks)\n    (c) Describe a simple experiment to verify Archimedes' Principle. (5 marks)"
         },
@@ -12,5 +10,3 @@
         }
       }
     }
-  }
-}
