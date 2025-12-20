@@ -41,7 +41,7 @@
     "FORM ONE EXAMS": [
       {
         "title": "TERMINAL-SERIES 1",
-        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/EXAMS/FORM1-SERIES1.json",
+        "url": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/exams/FORM1-SERIES1.json",
         "cover_pages": "https://raw.githubusercontent.com/apaz-apaz/datasets/main/cover_pages/physics-series 1.png",
         "rating": 4.6,
         "description": "Physics Form 2 notes."
