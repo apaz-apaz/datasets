@@ -1,36 +1,38 @@
 {
-  "Form 1 Science Exams Series 1": {
-    "Physics": {
-      "Exam Paper": {
-        "chapter_title": "Physics Form 1 - Full Examination Paper",
-        "content": "# Physics Form 1 Terminal Examination\n\n**Time: 2 Hours 30 Minutes**  \n**Instructions:** Answer all questions in Sections A and B, and two questions from Section C.\n\n## Section A: Multiple Choice (20 marks)\n1. The branch of science that deals with matter in relation to energy is:\n   A. Biology  B. Chemistry  C. Physics  D. Geography\n\n2. Anything that has mass and occupies space is called:\n   A. Force  B. Energy  C. Matter  D. Power\n\n3. The SI unit of mass is:\n   A. Newton  B. Metre  C. Kilogram  D. Second\n\n4. Friction is a force that:\n   A. Helps motion  B. Opposes motion  C. Increases speed  D. Causes floating\n\n5. Density = \n   A. Volume / Mass  B. Mass / Volume  C. Force / Area  D. Mass × Volume\n\n(Questions 6-20: Similar standard MCQs on measurement, force, pressure, etc.)\n\n## Section B: Short Answer (40 marks)\n1. Define Physics and give three branches. (5 marks)\n2. Explain four importance of Physics in daily life. (8 marks)\n3. State five laboratory safety rules. (5 marks)\n4. Differentiate mass and weight. (6 marks)\n5. Calculate the density of an object with mass 200 g and volume 50 cm³. (4 marks)\n\n## Section C: Structured Questions (40 marks)\nAnswer two questions.\n1. Explain Archimedes' Principle and describe an experiment to verify it. (20 marks)\n2. Discuss pressure in fluids and its applications in daily life. (20 marks)"
-      },
-      "Marking Scheme": {
-        "chapter_title": "Physics Form 1 - Marking Scheme with Solutions",
-        "content": "# Physics Form 1 Marking Scheme\n\n## Section A (1 mark each)\n1. C. Physics\n2. C. Matter\n3. C. Kilogram\n4. B. Opposes motion\n5. B. Mass / Volume\n\n## Section B\n1. Physics: Study of matter and energy. Branches: Mechanics, Heat, Electricity (etc.). (5 marks allocation)\n2. Examples: Technology, Medicine, Transport, Energy (2 marks each explanation).\n3. Rules: No eating, Wear goggles, No running (1 mark each).\n4. Mass: Amount of matter (constant), Weight: Gravitational force (varies). (6 marks)\n5. Density = 200/50 = 4 g/cm³ (step-by-step: formula 1, calc 2, unit 1).\n\n## Section C\nDetailed solutions with mark allocation for explanations, diagrams, calculations.\n\n**Total: 100 marks**"
-      }
+  "Grandpa vs WhatsApp Emojis": {
+    "Introduction": {
+      "chapter_title": "Babu Discovers WhatsApp at 78",
+      "content": "Babu was 78 years old. His grandson gave him an old smartphone.\n\nHe learned to type with one finger.\n\nFirst message to the family group:\n\n“Hello everyone 👴”\n\nThen he discovered emojis… and everything changed."
     },
 
-    "Chemistry": {
-      "Exam Paper": {
-        "chapter_title": "Chemistry Form 1 - Full Examination Paper",
-        "content": "# Chemistry Form 1 Terminal Examination\n\n**Time: 2 Hours**  \n**Instructions:** Answer all questions.\n\n## Section A: Multiple Choice (20 marks)\n1. Chemistry is the study of:\n   A. Living things  B. Matter composition and changes  C. Rocks  D. Stars\n\n2. Matter exists in:\n   A. Two states  B. Three states  C. Four states  D. One state\n\n3. The smallest particle of an element is:\n   A. Molecule  B. Atom  C. Ion  D. Compound\n\n4. First Aid is given for:\n   A. Treatment  B. Immediate help  C. Surgery  D. Diagnosis\n\n5. Warning signs in the lab indicate:\n   A. Safe chemicals  B. Dangerous substances  C. Food  D. Water\n\n## Section B: Short Answer (40 marks)\n1. Define Chemistry and its importance. (6 marks)\n2. List five items in a First Aid Kit and their uses. (10 marks)\n3. Explain laboratory safety rules. (8 marks)\n4. Describe burning as a chemical change. (6 marks)\n\n## Section C: Structured (40 marks)\n1. Explain the particulate nature of matter. (20 marks)\n2. Discuss applications of Chemistry in daily life. (20 marks)"
-      },
-      "Marking Scheme": {
-        "chapter_title": "Chemistry Form 1 - Marking Scheme with Solutions",
-        "content": "# Chemistry Form 1 Marking Scheme\n\n## Section A\n1. B. Matter composition and changes\n2. B. Three states\n3. B. Atom\n4. B. Immediate help\n5. B. Dangerous substances\n\n## Section B\n1. Chemistry: Study of matter, its composition, properties, changes. Importance: Medicine, Agriculture, etc.\n2. Items: Bandage (wounds), Antiseptic (clean), Cotton (absorb), etc. (2 marks each).\n3. Rules: No eating, Protective gear, Handle carefully.\n4. Irreversible, new substances, heat/light.\n\n## Section C\nDetailed explanations with points allocation.\n\n**Total: 100 marks**"
-      }
+    "Chapter 1": {
+      "chapter_title": "500 Crying-Laughing Faces",
+      "content": "Someone posted a small joke.\n\nBabu replied with 500 crying-laughing faces 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂\n\nThe phone froze for ten minutes.\n\n![Phone screen full of laughing emojis](https://picsum.photos/seed/babu-laughing-flood/800/600)\n\nHis daughter called: “Babu stop! My phone is crying!”"
     },
 
-    "Biology": {
-      "Exam Paper": {
-        "chapter_title": "Biology Form 1 - Full Examination Paper",
-        "content": "# Biology Form 1 Terminal Examination\n\n**Time: 2 Hours**  \nContent includes sections on Introduction to Biology, Lab rules, Cell structure, Classification, Health, etc. With MCQ, short answer, and structured questions."
-      },
-      "Marking Scheme": {
-        "chapter_title": "Biology Form 1 - Marking Scheme with Solutions",
-        "content": "# Biology Marking Scheme\nDetailed answers and mark allocation."
-      }
+    "Chapter 2": {
+      "chapter_title": "The Day He Found the Middle Finger",
+      "content": "Babu saw the 🤮 emoji by mistake.\n\nHe sent it to the village chairman who asked for tax.\n\nChairman came running to the house shouting.\n\n![Angry village chairman at Babu’s door](https://picsum.photos/seed/chairman-angry-door/800/600)\n\nBabu said, “I thought it means number one!”"
+    },
+
+    "Chapter 3": {
+      "chapter_title": "Secret Love with Grandma Mwajuma",
+      "content": "Babu liked Grandma Mwajuma from the next village.\n\nHe sent her only red hearts ❤️❤️❤️ every morning and night.\n\nShe replied with kissing faces 😘😘😘\n\n![Old couple sending heart emojis](https://picsum.photos/seed/babu-mwajuma-hearts/800/600)\n\nThe grandchildren screamed, “Babu is in love!”"
+    },
+
+    "Chapter 4": {
+      "chapter_title": "Village Meeting in the Group Chat",
+      "content": "The village chairman made a WhatsApp group for meetings.\n\nBabu asked, “Who sent me the dancing lady in bikini? 💃”\n\nIt was an accident… but 200 people saw it.\n\n![Group chat explosion with dancing lady](https://picsum.photos/seed/whatsapp-dancing-lady/800/600)\n\nMeeting cancelled."
+    },
+
+    "Chapter 5": {
+      "chapter_title": "Babu Becomes Emoji Translator",
+      "content": "Old people started paying Babu 1,000 shillings to explain emojis.\n\n“What does 🍑 mean?”\n\nBabu answered, “It is a peach fruit!”\n\n![Babu teaching emojis to old men](https://picsum.photos/seed/babu-teaching-emojis/800/600)\n\nBusiness boom! He bought a new phone with the money."
+    },
+
+    "Conclusion": {
+      "chapter_title": "King of WhatsApp",
+      "content": "Now Babu is the happiest grandfather.\n\nHe sends good morning roses 🌹 and good night moons 🌙 to everyone.\n\nThe family group has 3,000 messages a day… all from Babu.\n\n![Babu smiling with big phone](https://picsum.photos/seed/happy-babu-phone/800/600)\n\nMoral: You are never too old for emojis!\n\nThe end."
     }
   }
 }
